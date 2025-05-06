@@ -50,7 +50,7 @@
 
 -[EX03-07 Tips](EX03_07_Tips.ipynb)
 
-## 05
+## 05 Web API
 -[EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
 
 -[EX05-02 Ask Gemini](EX05_02_Ask_Gemini.ipynb)
