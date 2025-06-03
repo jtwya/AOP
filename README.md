@@ -55,7 +55,9 @@
 
 -[EX04-02 客戶基本資料編碼](EX04_02_客戶基本資料編碼.ipynb)
 
--[EX04-03客戶分群](EX04_03_客戶分群.ipynb)
+-[EX04-03 客戶分群](EX04_03_客戶分群.ipynb)
+
+-[EX04-04 加州房價](EX04_04_加州房價.ipynb)
 
 ## 05 Web API
 -[EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
