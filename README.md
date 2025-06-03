@@ -59,6 +59,8 @@
 
 -[EX04-04 加州房價](EX04_04_加州房價.ipynb)
 
+-[EX04-05 辨識鳶尾花](EX04_05_辨識鳶尾花.ipynb)
+
 ## 05 Web API
 -[EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
 
